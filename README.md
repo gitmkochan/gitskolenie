@@ -1,1 +1,2 @@
 # gitskolenie
+ahoj svet
